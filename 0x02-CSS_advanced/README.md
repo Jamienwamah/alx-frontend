@@ -1167,4 +1167,4 @@ GitHub repository: alx-frontend
 Directory: 0x02-CSS_advanced
 File: styles/32-style.css
  
-Copyright © 2023 ALX, All rights reserved.
+Copyright © 2023 ALX, All rights reserved
